@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  /* background-color: bg-light; */
+}
+
+body {
+  padding: 2rem;
+  background: #f8f8f8;
+  background-color: whitesmoke;
+  background-image: url("https://www.transparenttextures.com/patterns/lyonnette.png");
+}
